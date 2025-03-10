@@ -1,4 +1,0 @@
-    ## currently working on
-    - getting CCNA
-    - doing 30days of python
-    
